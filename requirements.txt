@@ -1,0 +1,8 @@
+koboextractor
+geopandas
+folium
+shapely
+matplotlib 
+seaborn 
+ipywidgets 
+

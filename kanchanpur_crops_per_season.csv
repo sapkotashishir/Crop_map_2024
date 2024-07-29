@@ -1,0 +1,81 @@
+palika,season,crop,count
+Belauri,monsoon,rice,216
+Belauri,monsoon,sugarcane,50
+Belauri,monsoon,grassland,28
+Belauri,monsoon,fallow,11
+Belauri,monsoon,maize,11
+Belauri,monsoon,shrub_tree,11
+Belauri,monsoon,banana,9
+Belauri,monsoon,Mole,2
+Belauri,monsoon,mole,2
+Belauri,monsoon,Bhanta,1
+Belauri,monsoon,ground_nut,1
+Belauri,summer,fallow,159
+Belauri,summer,maize,75
+Belauri,summer,sugarcane,56
+Belauri,summer,grassland,12
+Belauri,summer,shrub_tree,11
+Belauri,summer,banana,10
+Belauri,summer,rice,3
+Belauri,summer,"Bodi, kakara, lauka",1
+Belauri,summer,"Farsi,lauki makai  mix lagako",1
+Belauri,summer,"Kakara, khursani, boldi",1
+Belauri,summer,"Lauka,  bodi, karela",1
+Belauri,summer,"Lauka, bhindi, kakara",1
+Belauri,summer,"Lauki ,bodi",1
+Belauri,summer,"Lauki ,bodi, karela,kakra",1
+Belauri,summer,"Laura, bodi kakra",1
+Belauri,summer,Mustard ,1
+Belauri,summer,Onion,1
+Belauri,summer,Potato,1
+Belauri,summer,cauliflower,1
+Belauri,summer,kakra ra karela,1
+Belauri,summer,lentil,1
+Belauri,summer,mustard,1
+Belauri,winter,mustard,111
+Belauri,winter,wheat,81
+Belauri,winter,sugarcane,48
+Belauri,winter,lentil,36
+Belauri,winter,potato,30
+Belauri,winter,cauliflower,11
+Belauri,winter,shrub_tree,11
+Belauri,winter,banana,10
+Belauri,winter,fallow,8
+Belauri,winter,grassland,6
+Belauri,winter,garlic,2
+Belauri,winter,Potato,1
+Belauri,winter,Radish,1
+Belauri,winter,maize,1
+Belauri,winter,onion,1
+Belauri,winter,pea,1
+Punarbas,monsoon,rice,75
+Punarbas,monsoon,maize,24
+Punarbas,monsoon,sugarcane,13
+Punarbas,monsoon,shrub_tree,10
+Punarbas,monsoon,banana,7
+Punarbas,monsoon,black_grams,5
+Punarbas,monsoon,grassland,5
+Punarbas,monsoon,Mole,2
+Punarbas,monsoon,fallow,2
+Punarbas,monsoon,Soyabean,1
+Punarbas,monsoon,Soyabeans,1
+Punarbas,monsoon,ground_nut,1
+Punarbas,summer,fallow,82
+Punarbas,summer,maize,27
+Punarbas,summer,sugarcane,14
+Punarbas,summer,shrub_tree,10
+Punarbas,summer,banana,6
+Punarbas,summer,Wheat,3
+Punarbas,summer,grassland,2
+Punarbas,summer,"Rayo ,kakara  karela",1
+Punarbas,summer,soyabean,1
+Punarbas,winter,wheat,66
+Punarbas,winter,mustard,42
+Punarbas,winter,sugarcane,15
+Punarbas,winter,shrub_tree,10
+Punarbas,winter,banana,6
+Punarbas,winter,other_winter,3
+Punarbas,winter,grassland,2
+Punarbas,winter,lentil,2
+Punarbas,winter,Wheat,1
+Punarbas,winter,fallow,1

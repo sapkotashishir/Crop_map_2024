@@ -506,4 +506,3 @@ display(district_dropdown, generate_button)
 
 
 
-

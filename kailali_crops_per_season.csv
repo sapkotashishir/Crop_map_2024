@@ -1,44 +1,37 @@
 palika,season,crop,count
-Janaki,monsoon,rice,173
-Janaki,monsoon,shrub_tree,9
-Janaki,monsoon,banana,8
-Janaki,monsoon,grassland,6
-Janaki,monsoon,vegetables,5
-Janaki,monsoon,fallow,4
-Janaki,monsoon,maize,4
-Janaki,monsoon,Millet,1
-Janaki,monsoon,Pigeon Pea,1
-Janaki,monsoon,black_gram,1
-Janaki,monsoon,chilly,1
-Janaki,monsoon,cucumber,1
-Janaki,summer,fallow,122
-Janaki,summer,maize,53
-Janaki,summer,banana,10
-Janaki,summer,shrub_tree,9
-Janaki,summer,vegetables,5
-Janaki,summer,grassland,4
-Janaki,summer,cucumber,3
-Janaki,summer,tomato,3
+Janaki,monsoon,rice,288
+Janaki,monsoon,maize,12
+Janaki,monsoon,banana,10
+Janaki,monsoon,fallow,10
+Janaki,monsoon,grassland,10
+Janaki,monsoon,shrub_tree,10
+Janaki,monsoon,vegetables,9
+Janaki,monsoon,black_gram,2
+Janaki,monsoon,millet,1
+Janaki,monsoon,pea,1
+Janaki,monsoon,soyabean,1
+Janaki,monsoon,spices,1
+Janaki,summer,fallow,235
+Janaki,summer,maize,60
+Janaki,summer,vegetables,30
+Janaki,summer,banana,12
+Janaki,summer,shrub_tree,11
+Janaki,summer,grassland,8
+Janaki,summer,spices,3
 Janaki,summer,black_gram,2
-Janaki,summer,chilly,2
-Janaki,summer,bottle_gourd,1
-Janaki,summer,mentha,1
+Janaki,summer,rice,1
 Janaki,summer,watermelon,1
-Janaki,winter,mustard,85
-Janaki,winter,wheat,71
-Janaki,winter,lentil,30
-Janaki,winter,potato,17
-Janaki,winter,vegetables,11
-Janaki,winter,banana,9
-Janaki,winter,shrub_tree,9
-Janaki,winter,grassland,4
-Janaki,winter,other_winter,4
-Janaki,winter,fallow,2
-Janaki,winter,tomato,2
-Janaki,winter,Tomato,1
-Janaki,winter,chilly,1
-Janaki,winter,garlic,1
-Janaki,winter,onion,1
+Janaki,winter,mustard,156
+Janaki,winter,wheat,105
+Janaki,winter,lentil,95
+Janaki,winter,potato,30
+Janaki,winter,vegetables,21
+Janaki,winter,banana,11
+Janaki,winter,shrub_tree,11
+Janaki,winter,fallow,9
+Janaki,winter,spices,6
+Janaki,winter,grassland,5
+Janaki,winter,black_gram,3
 Janaki,winter,pea,1
 Lamki Chuha,monsoon,rice,198
 Lamki Chuha,monsoon,maize,19
@@ -46,24 +39,20 @@ Lamki Chuha,monsoon,grassland,15
 Lamki Chuha,monsoon,shrub_tree,11
 Lamki Chuha,monsoon,banana,2
 Lamki Chuha,monsoon,black_gram,2
-Lamki Chuha,monsoon,bottle_gourd,1
+Lamki Chuha,monsoon,vegetables,2
 Lamki Chuha,monsoon,ground_nut,1
-Lamki Chuha,monsoon,vegetables,1
 Lamki Chuha,summer,fallow,158
 Lamki Chuha,summer,maize,41
 Lamki Chuha,summer,grassland,13
 Lamki Chuha,summer,rice,11
 Lamki Chuha,summer,shrub_tree,11
-Lamki Chuha,summer,vegetables,6
+Lamki Chuha,summer,vegetables,11
 Lamki Chuha,summer,Dhaicha,2
 Lamki Chuha,summer,banana,2
-Lamki Chuha,summer,cucumber,2
-Lamki Chuha,summer,tomato,2
 Lamki Chuha,summer,black_gram,1
-Lamki Chuha,summer,bottle_gourd,1
-Lamki Chuha,summer,chilly,1
-Lamki Chuha,summer,mung,1
 Lamki Chuha,summer,mustard,1
+Lamki Chuha,summer,pulses,1
+Lamki Chuha,summer,spices,1
 Lamki Chuha,summer,sugarcane,1
 Lamki Chuha,winter,wheat,96
 Lamki Chuha,winter,mustard,86
@@ -71,12 +60,10 @@ Lamki Chuha,winter,lentil,54
 Lamki Chuha,winter,potato,15
 Lamki Chuha,winter,shrub_tree,11
 Lamki Chuha,winter,grassland,9
-Lamki Chuha,winter,garlic,5
-Lamki Chuha,winter,vegetables,4
+Lamki Chuha,winter,vegetables,7
+Lamki Chuha,winter,spices,6
 Lamki Chuha,winter,banana,2
 Lamki Chuha,winter,fallow,2
 Lamki Chuha,winter,maize,2
-Lamki Chuha,winter,onion,2
-Lamki Chuha,winter,other_winter,2
-Lamki Chuha,winter,chilly,1
+Lamki Chuha,winter,flower,1
 Lamki Chuha,winter,sugarcane,1
